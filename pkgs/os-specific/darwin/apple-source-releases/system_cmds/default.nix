@@ -76,7 +76,7 @@ appleDerivation {
       case $name in
 
            # These are all broken currently.
-           arch) continue;;
+           # arch) continue;;
            chpass) continue;;
            dirhelper) continue;;
            dynamic_pager) continue;;
